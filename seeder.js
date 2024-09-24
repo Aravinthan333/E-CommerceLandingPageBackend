@@ -25,7 +25,7 @@ const products = [
     category: "electronics",
     price: 999,
     description: "A powerful laptop.",
-    image: "url-to-image",
+    image: "https://placehold.jp/250x192.png",
     quantity: 50,
   },
   {
@@ -33,7 +33,7 @@ const products = [
     category: "clothing",
     price: 29,
     description: "A stylish shirt.",
-    image: "url-to-image",
+    image: "https://placehold.jp/250x192.png",
     quantity: 150,
   },
   {
@@ -41,7 +41,7 @@ const products = [
     category: "electronics",
     price: 799,
     description: "A high-end smartphone with great camera.",
-    image: "url-to-image",
+    image: "https://placehold.jp/250x192.png",
     quantity: 75,
   },
   {
@@ -49,7 +49,7 @@ const products = [
     category: "clothing",
     price: 49,
     description: "Comfortable blue jeans.",
-    image: "url-to-image",
+    image: "https://placehold.jp/250x192.png",
     quantity: 100,
   },
   {
@@ -57,7 +57,7 @@ const products = [
     category: "electronics",
     price: 199,
     description: "Noise-cancelling headphones.",
-    image: "url-to-image",
+    image: "https://placehold.jp/250x192.png",
     quantity: 40,
   },
   {
@@ -65,7 +65,7 @@ const products = [
     category: "home-appliances",
     price: 120,
     description: "Compact microwave oven for your kitchen.",
-    image: "url-to-image",
+    image: "https://placehold.jp/250x192.png",
     quantity: 30,
   },
   {
@@ -73,7 +73,7 @@ const products = [
     category: "clothing",
     price: 19,
     description: "A simple cotton t-shirt.",
-    image: "url-to-image",
+    image: "https://placehold.jp/250x192.png",
     quantity: 200,
   },
   {
@@ -81,7 +81,7 @@ const products = [
     category: "home-appliances",
     price: 899,
     description: "Energy-efficient refrigerator with freezer.",
-    image: "url-to-image",
+    image: "https://placehold.jp/250x192.png",
     quantity: 20,
   },
   {
@@ -89,7 +89,7 @@ const products = [
     category: "home-appliances",
     price: 49,
     description: "A powerful blender for smoothies.",
-    image: "url-to-image",
+    image: "https://placehold.jp/250x192.png",
     quantity: 60,
   },
   {
@@ -97,7 +97,7 @@ const products = [
     category: "clothing",
     price: 79,
     description: "Comfortable running sneakers.",
-    image: "url-to-image",
+    image: "https://placehold.jp/250x192.png",
     quantity: 120,
   },
   {
@@ -105,7 +105,7 @@ const products = [
     category: "electronics",
     price: 499,
     description: "Next-gen gaming console.",
-    image: "url-to-image",
+    image: "https://placehold.jp/250x192.png",
     quantity: 35,
   },
   {
@@ -113,7 +113,7 @@ const products = [
     category: "home-appliances",
     price: 600,
     description: "Split AC with quick cooling.",
-    image: "url-to-image",
+    image: "https://placehold.jp/250x192.png",
     quantity: 25,
   },
   {
@@ -121,7 +121,7 @@ const products = [
     category: "electronics",
     price: 199,
     description: "Smartwatch with health tracking.",
-    image: "url-to-image",
+    image: "https://placehold.jp/250x192.png",
     quantity: 80,
   },
   {
@@ -129,7 +129,7 @@ const products = [
     category: "clothing",
     price: 120,
     description: "Water-resistant jacket.",
-    image: "url-to-image",
+    image: "https://placehold.jp/250x192.png",
     quantity: 90,
   },
   {
@@ -137,7 +137,7 @@ const products = [
     category: "home-appliances",
     price: 30,
     description: "Two-slice toaster with browning control.",
-    image: "url-to-image",
+    image: "https://placehold.jp/250x192.png",
     quantity: 40,
   },
   {
@@ -145,7 +145,7 @@ const products = [
     category: "electronics",
     price: 1200,
     description: "4K Ultra HD Smart LED TV.",
-    image: "url-to-image",
+    image: "https://placehold.jp/250x192.png",
     quantity: 15,
   },
   {
@@ -153,7 +153,7 @@ const products = [
     category: "home-appliances",
     price: 700,
     description: "Top load washing machine with 7kg capacity.",
-    image: "url-to-image",
+    image: "https://placehold.jp/250x192.png",
     quantity: 18,
   },
   {
@@ -161,7 +161,7 @@ const products = [
     category: "clothing",
     price: 69,
     description: "Floral print summer dress.",
-    image: "url-to-image",
+    image: "https://placehold.jp/250x192.png",
     quantity: 95,
   },
   {
@@ -169,7 +169,7 @@ const products = [
     category: "electronics",
     price: 399,
     description: "10-inch tablet with stylus support.",
-    image: "url-to-image",
+    image: "https://placehold.jp/250x192.png",
     quantity: 55,
   },
   {
@@ -177,7 +177,7 @@ const products = [
     category: "home-appliances",
     price: 150,
     description: "Bagless vacuum cleaner.",
-    image: "url-to-image",
+    image: "https://placehold.jp/250x192.png",
     quantity: 45,
   },
   {
@@ -185,7 +185,7 @@ const products = [
     category: "clothing",
     price: 150,
     description: "Formal blazer for office wear.",
-    image: "url-to-image",
+    image: "https://placehold.jp/250x192.png",
     quantity: 70,
   },
   {
@@ -193,7 +193,7 @@ const products = [
     category: "electronics",
     price: 99,
     description: "Voice-activated smart speaker.",
-    image: "url-to-image",
+    image: "https://placehold.jp/250x192.png",
     quantity: 90,
   },
   {
@@ -201,7 +201,7 @@ const products = [
     category: "home-appliances",
     price: 85,
     description: "Healthy cooking with minimal oil.",
-    image: "url-to-image",
+    image: "https://placehold.jp/250x192.png",
     quantity: 65,
   },
   {
@@ -209,7 +209,7 @@ const products = [
     category: "clothing",
     price: 10,
     description: "Pack of 5 cotton socks.",
-    image: "url-to-image",
+    image: "https://placehold.jp/250x192.png",
     quantity: 300,
   },
   {
@@ -217,7 +217,7 @@ const products = [
     category: "accessories",
     price: 50,
     description: "Premium leather wallet.",
-    image: "url-to-image",
+    image: "https://placehold.jp/250x192.png",
     quantity: 120,
   },
   {
@@ -225,7 +225,7 @@ const products = [
     category: "cosmetics",
     price: 25,
     description: "Matte finish lipstick.",
-    image: "url-to-image",
+    image: "https://placehold.jp/250x192.png",
     quantity: 250,
   },
   {
@@ -233,7 +233,7 @@ const products = [
     category: "cosmetics",
     price: 40,
     description: "Full-coverage liquid foundation.",
-    image: "url-to-image",
+    image: "https://placehold.jp/250x192.png",
     quantity: 180,
   },
   {
@@ -241,7 +241,7 @@ const products = [
     category: "cosmetics",
     price: 90,
     description: "Luxury floral fragrance.",
-    image: "url-to-image",
+    image: "https://placehold.jp/250x192.png",
     quantity: 120,
   },
   {
@@ -249,7 +249,7 @@ const products = [
     category: "cosmetics",
     price: 35,
     description: "12-color eyeshadow palette.",
-    image: "url-to-image",
+    image: "https://placehold.jp/250x192.png",
     quantity: 140,
   },
   {
@@ -257,7 +257,7 @@ const products = [
     category: "cosmetics",
     price: 60,
     description: "Moisturizing face cream.",
-    image: "url-to-image",
+    image: "https://placehold.jp/250x192.png",
     quantity: 160,
   },
   {
@@ -265,7 +265,7 @@ const products = [
     category: "cosmetics",
     price: 30,
     description: "Nourishing hair serum for shine.",
-    image: "url-to-image",
+    image: "https://placehold.jp/250x192.png",
     quantity: 100,
   },
   {
@@ -273,7 +273,7 @@ const products = [
     category: "cosmetics",
     price: 15,
     description: "Long-lasting nail polish.",
-    image: "url-to-image",
+    image: "https://placehold.jp/250x192.png",
     quantity: 300,
   },
   {
@@ -281,7 +281,7 @@ const products = [
     category: "cosmetics",
     price: 20,
     description: "Peach-toned blush.",
-    image: "url-to-image",
+    image: "https://placehold.jp/250x192.png",
     quantity: 130,
   },
   {
@@ -289,7 +289,7 @@ const products = [
     category: "cosmetics",
     price: 18,
     description: "Volumizing mascara.",
-    image: "url-to-image",
+    image: "https://placehold.jp/250x192.png",
     quantity: 170,
   },
 ];
